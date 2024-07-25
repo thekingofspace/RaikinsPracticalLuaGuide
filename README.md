@@ -7,4 +7,4 @@ Whenever I include code, it will be displayed in code blocks like this:
 ```
 
 
-To start head over here [Text](https://github.com/thekingofspace/RaikinsPracticalLuaGuide/wiki)
+To start head over here [**WIKI**](https://github.com/thekingofspace/RaikinsPracticalLuaGuide/wiki)
